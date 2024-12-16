@@ -15,6 +15,5 @@ Highly skilled and detail-oriented professional with 5+ years of experience in c
 
 ### Projects
 - Starbucks project
-- [Udacity Data Scientist Program Capstone Project](https://coskunerden.github.io/Udacity_DS_Capstone_Project/)
-!(images/Deneme.png)
+- [Udacity Data Scientist Program Capstone Project](https://coskunerden.github.io/Udacity_DS_Capstone_Project/)(images/Deneme.png)
 - Starship project

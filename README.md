@@ -11,7 +11,7 @@ Highly skilled and detail-oriented professional with 5+ years of experience in c
 ### Work Eperience
 Data Scientist @ Iowa State University
 - big impact project 1!
-[Project 1] (https://coskunerden.github.io/Udacity_DS_Capstone_Project/)
+- [Project 1](https://coskunerden.github.io/Udacity_DS_Capstone_Project/)
 - big impact project 2!
 
 

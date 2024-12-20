@@ -23,3 +23,7 @@ Highly skilled and detail-oriented professional with 5+ years of experience in c
   
   [![Certificate Image](https://raw.githubusercontent.com/CoskunErden/coskunerden.github.io/main/images/UdacityDataScientistCertificate.jpg)](https://www.udacity.com/certificate/e/78be004e-41d4-11ef-b282-cb8cfd0cc463)
 
+  - IBM Data Scientist Certificate
+  
+  [![Certificate Image2](https://raw.githubusercontent.com/CoskunErden/coskunerden.github.io/main/images/IBMDataScientistCertificate.jpg)](https://www.coursera.org/account/accomplishments/specialization/certificate/ZLRN24S8TJES)
+

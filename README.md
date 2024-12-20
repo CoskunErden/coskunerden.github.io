@@ -20,7 +20,6 @@ Highly skilled and detail-oriented professional with 5+ years of experience in c
 
 ![Project Image](https://github.com/CoskunErden/coskunerden.github.io/blob/main/images/starbucks.webp)
 
-- Starship project
 
 ### Certificates
 - [Udacity Data Scientist Certificate](https://www.udacity.com/certificate/e/78be004e-414d-11ef-b282-cb8cfd0cc463)

@@ -21,3 +21,9 @@ Highly skilled and detail-oriented professional with 5+ years of experience in c
 
 
 - Starship project
+
+### Certificates
+- Udacity Data Scientist Certificate
+- [Udacity Data Scientist Program Certificate]([https://www.udacity.com/certificate/e/78be004e-414d-11ef-b282-cb8cfd0cc463])
+
+[![Project Image](https://raw.githubusercontent.com/CoskunErden/coskunerden.github.io/main/images/UdacityDataScientistCertificate.jpg)](https://www.udacity.com/certificate/e/78be004e-414d-11ef-b282-cb8cfd0cc463))

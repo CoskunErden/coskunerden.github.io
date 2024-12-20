@@ -27,3 +27,6 @@ Highly skilled and detail-oriented professional with 5+ years of experience in c
   
   [![Certificate Image2](https://raw.githubusercontent.com/CoskunErden/coskunerden.github.io/main/images/IBMDataScientistCertificate.jpg)](https://www.coursera.org/account/accomplishments/specialization/certificate/ZLRN24S8TJES)
 
+  - DataCamp Machine Learning Scientist Certificate
+  
+  [![Certificate Image3](https://raw.githubusercontent.com/CoskunErden/coskunerden.github.io/main/images/MachineLearningScientistCertificate.jpg)](https://www.datacamp.com/statement-of-accomplishment/track/f108efec1dfd7a23657a814ff4db852e2c78b942?raw=1)

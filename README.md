@@ -15,10 +15,10 @@ Highly skilled and detail-oriented professional with 5+ years of experience in c
 
 ### Projects
 - Starbucks project
-- [Udacity Data Scientist Program Capstone Project](https://github.com/CoskunErden/coskunerden.github.io/blob/main/images/starbucks.webp)
+- [Udacity Data Scientist Program Capstone Project](https://github.com/CoskunErden/coskunerden.github.io) 
   
 
-![Project Image](https://github.com/CoskunErden/coskunerden.github.io/blob/main/images/starbucks.webp)
+![Project Image](https://raw.githubsercontent.com/CoskunErden/coskunerden.github.io/main/images/starbucks.webp)
 
 
 ### Certificates

@@ -21,20 +21,39 @@ Highly skilled and detail-oriented professional with 5+ years of experience in c
 ### Certificates
 
 <div class="certificate-container">
-  <div class="certificate">
-    <img src="https://raw.githubusercontent.com/CoskunErden/coskunerden.github.io/main/images/UdacityDataScientistCertificate.jpg" alt="Udacity Data Scientist Certificate" title="Focused on machine learning, data engineering, recommendation systems, and deploying AI solutions using advanced tools." />
-    <p><a href="https://www.udacity.com/certificate/e/78be004e-414d-11ef-b282-cb8cfcdc0463" target="_blank">Udacity Data Scientist Certificate</a> (Completed: December 2024)</p>
+  <!-- Row 1 -->
+  <div class="certificate-row">
+    <div class="certificate">
+      <img src="https://raw.githubusercontent.com/CoskunErden/coskunerden.github.io/main/images/UdacityDataScientistCertificate.jpg" 
+           alt="Udacity Data Scientist Certificate" 
+           title="Focused on machine learning, data engineering, recommendation systems, and deploying AI solutions using advanced tools." />
+      <p><a href="https://www.udacity.com/certificate/e/78be004e-414d-11ef-b282-cb8cfcdc0463" target="_blank">
+      Udacity Data Scientist Certificate</a> (Completed: December 2024)</p>
+    </div>
+    <div class="certificate">
+      <img src="https://raw.githubusercontent.com/CoskunErden/coskunerden.github.io/main/images/IBMDataScientistCertificate.jpg" 
+           alt="IBM Data Scientist Certificate" 
+           title="Focused on SQL, big data tools, with expertise in data pipelines, predictive modeling, and cloud-based scalable solutions." />
+      <p><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/ZLRN24S8TJES" target="_blank">
+      IBM Data Scientist Certificate</a> (Completed: April 2023)</p>
+    </div>
   </div>
-  <div class="certificate">
-    <img src="https://raw.githubusercontent.com/CoskunErden/coskunerden.github.io/main/images/IBMDataScientistCertificate.jpg" alt="IBM Data Scientist Certificate" title="Focused on SQL, big data tools, with expertise in data pipelines, predictive modeling, and cloud-based scalable solutions." />
-    <p><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/ZLRN24S8TJES" target="_blank">IBM Data Scientist Certificate</a> (Completed: April 2023)</p>
-  </div>
-  <div class="certificate">
-    <img src="https://raw.githubusercontent.com/CoskunErden/coskunerden.github.io/main/images/MachineLearningScientistCertificate.jpg" alt="DataCamp Machine Learning Scientist Certificate" title="Focused on PyTorch, with expertise in supervised and unsupervised learning, deep learning, and machine learning solutions." />
-    <p><a href="https://www.datacamp.com/statement-of-accomplishment/track/f108eefd1cdf7a23657a814ffd8852e2c7b8942" target="_blank">DataCamp Machine Learning Scientist Certificate</a> (Completed: June 2024)</p>
-  </div>
-  <div class="certificate">
-    <img src="https://raw.githubusercontent.com/CoskunErden/coskunerden.github.io/main/images/DataCampDataScientistProfessional.jpg" alt="DataCamp Machine Data Scientist Certificate" title="Focused on SQL, data pipelines, and scalable data science solutions." />
-    <p><a href="https://www.datacamp.com/certificate/DS002583108500" target="_blank">DataCamp Machine Data Scientist Certificate</a> (Completed: March 2023)</p>
+
+  <!-- Row 2 -->
+  <div class="certificate-row">
+    <div class="certificate">
+      <img src="https://raw.githubusercontent.com/CoskunErden/coskunerden.github.io/main/images/MachineLearningScientistCertificate.jpg" 
+           alt="DataCamp Machine Learning Scientist Certificate" 
+           title="Focused on PyTorch, with expertise in supervised and unsupervised learning, deep learning, and machine learning solutions." />
+      <p><a href="https://www.datacamp.com/statement-of-accomplishment/track/f108eefd1cdf7a23657a814ffd8852e2c7b8942" target="_blank">
+      DataCamp Machine Learning Scientist Certificate</a> (Completed: June 2024)</p>
+    </div>
+    <div class="certificate">
+      <img src="https://raw.githubusercontent.com/CoskunErden/coskunerden.github.io/main/images/DataCampDataScientistProfessional.jpg" 
+           alt="DataCamp Machine Data Scientist Certificate" 
+           title="Focused on SQL, data pipelines, and scalable data science solutions." />
+      <p><a href="https://www.datacamp.com/certificate/DS002583108500" target="_blank">
+      DataCamp Machine Data Scientist Certificate</a> (Completed: March 2023)</p>
+    </div>
   </div>
 </div>

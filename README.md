@@ -13,6 +13,42 @@ Highly skilled and detail-oriented professional with 5+ years of experience in c
 - AI Engineer @ Radical AI
 
 ### Projects
+
+### Certificates
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+
+  <div style="flex: 1 1 calc(25% - 10px); max-width: calc(25% - 10px); text-align: center;">
+    <a href="https://www.udacity.com/certificate/e/7b8e004e-414d-11ef-b282-cb8cfd0cc463" target="_blank">
+      <img src="https://raw.githubusercontent.com/CoskunErden/coskunerden.github.io/main/images/UdacityDataScientistCertificate.jpg" alt="Udacity Certificate" style="width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px;">
+    </a>
+    <p>Udacity Data Scientist Certificate</p>
+  </div>
+
+  <div style="flex: 1 1 calc(25% - 10px); max-width: calc(25% - 10px); text-align: center;">
+    <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/ZLRNZ4S8TJES" target="_blank">
+      <img src="https://raw.githubusercontent.com/CoskunErden/coskunerden.github.io/main/images/IBMDataScientistCertificate.jpg" alt="IBM Certificate" style="width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px;">
+    </a>
+    <p>IBM Data Scientist Certificate</p>
+  </div>
+
+  <div style="flex: 1 1 calc(25% - 10px); max-width: calc(25% - 10px); text-align: center;">
+    <a href="https://www.datacamp.com/statement-of-accomplishment/track/f108eefc1dfd7a23657a814ff4d8852e2c7b8942" target="_blank">
+      <img src="https://raw.githubusercontent.com/CoskunErden/coskunerden.github.io/main/images/MachineLearningScientistCertificate.jpg" alt="DataCamp ML Certificate" style="width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px;">
+    </a>
+    <p>DataCamp Machine Learning Scientist Certificate</p>
+  </div>
+
+  <div style="flex: 1 1 calc(25% - 10px); max-width: calc(25% - 10px); text-align: center;">
+    <a href="https://www.datacamp.com/certificate/DS0025883108500" target="_blank">
+      <img src="https://raw.githubusercontent.com/CoskunErden/coskunerden.github.io/main/images/DataCampDataScientistProfessional.jpg" alt="DataCamp Data Scientist Certificate" style="width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px;">
+    </a>
+    <p>DataCamp Machine Data Scientist Certificate</p>
+  </div>
+
+</div>
+
+
 - Udacity Data Scientist Program Capstone Project
   
   [![Project Image](https://raw.githubusercontent.com/CoskunErden/coskunerden.github.io/main/images/starbucks.jpg)](https://coskunerden.github.io/Udacity_DS_Capstone_Project/)

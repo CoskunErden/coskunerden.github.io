@@ -48,14 +48,14 @@ Highly skilled and detail-oriented professional with 5+ years of experience in c
       <img src="https://raw.githubusercontent.com/CoskunErden/coskunerden.github.io/main/images/MachineLearningScientistCertificate.jpg" 
            alt="DataCamp Machine Learning Scientist Certificate" 
            title="Focused on PyTorch, with expertise in supervised and unsupervised learning, deep learning, and machine learning solutions." />
-      <p><a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.datacamp.com/statement-of-accomplishment/track/f108efec1dfd7a23657a814ff4db852e2c78b942?raw=1" target="_blank">
+      <p><a href="https://www.datacamp.com/statement-of-accomplishment/track/f108efec1dfd7a23657a814ff4db852e2c78b942?raw=1" target="_blank">
       DataCamp Machine Learning Scientist Certificate</a> (Completed: June 2024)</p>
     </div>
     <div class="certificate">
       <img src="https://raw.githubusercontent.com/CoskunErden/coskunerden.github.io/main/images/DataCampDataScientistProfessional.jpg" 
            alt="DataCamp Machine Learning Scientist Certificate" 
            title="Focused on SQL, data pipelines, and scalable data science solutions." />
-      <p><a href="https://www.datacamp.com/certificate/DS002583108500" target="_blank">
+      <p><a href="https://www.datacamp.com/certificate/DS0025883108500" target="_blank">
       DataCamp Data Scientist Certificate</a> (Completed: March 2023)</p>
     </div>
   </div>

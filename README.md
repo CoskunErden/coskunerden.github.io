@@ -26,9 +26,6 @@ Highly skilled and detail-oriented professional with 5+ years of experience in c
   - **Led the end-to-end data science lifecycle**, including data preprocessing (e.g., normalization, outlier detection), feature engineering (e.g., interaction terms, categorical encoding), and predictive modeling using **multi-level regression** and **cross-validated model evaluation**, achieving an **86% explanation of variance** in student ISASP scores.
 
 
-
-### Projects
-
 ### Projects
 
 - [Udacity Data Scientist Program Capstone Project](https://coskunerden.github.io/Udacity_DS_Capstone_Project/)

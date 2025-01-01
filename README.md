@@ -20,6 +20,9 @@ Highly skilled and detail-oriented professional with 5+ years of experience in c
 
 ### Certificates
 
+<link rel="stylesheet" href="styles.css">
+
+
 <div class="certificate-container">
   <!-- Row 1 -->
   <div class="certificate-row">

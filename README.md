@@ -14,58 +14,27 @@ Highly skilled and detail-oriented professional with 5+ years of experience in c
 
 ### Projects
 
-### Certificates
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-
-  <div style="flex: 1 1 calc(25% - 10px); max-width: calc(25% - 10px); text-align: center;">
-    <a href="https://www.udacity.com/certificate/e/7b8e004e-414d-11ef-b282-cb8cfd0cc463" target="_blank">
-      <img src="https://raw.githubusercontent.com/CoskunErden/coskunerden.github.io/main/images/UdacityDataScientistCertificate.jpg" alt="Udacity Certificate" style="width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px;">
-    </a>
-    <p>Udacity Data Scientist Certificate</p>
-  </div>
-
-  <div style="flex: 1 1 calc(25% - 10px); max-width: calc(25% - 10px); text-align: center;">
-    <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/ZLRNZ4S8TJES" target="_blank">
-      <img src="https://raw.githubusercontent.com/CoskunErden/coskunerden.github.io/main/images/IBMDataScientistCertificate.jpg" alt="IBM Certificate" style="width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px;">
-    </a>
-    <p>IBM Data Scientist Certificate</p>
-  </div>
-
-  <div style="flex: 1 1 calc(25% - 10px); max-width: calc(25% - 10px); text-align: center;">
-    <a href="https://www.datacamp.com/statement-of-accomplishment/track/f108eefc1dfd7a23657a814ff4d8852e2c7b8942" target="_blank">
-      <img src="https://raw.githubusercontent.com/CoskunErden/coskunerden.github.io/main/images/MachineLearningScientistCertificate.jpg" alt="DataCamp ML Certificate" style="width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px;">
-    </a>
-    <p>DataCamp Machine Learning Scientist Certificate</p>
-  </div>
-
-  <div style="flex: 1 1 calc(25% - 10px); max-width: calc(25% - 10px); text-align: center;">
-    <a href="https://www.datacamp.com/certificate/DS0025883108500" target="_blank">
-      <img src="https://raw.githubusercontent.com/CoskunErden/coskunerden.github.io/main/images/DataCampDataScientistProfessional.jpg" alt="DataCamp Data Scientist Certificate" style="width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px;">
-    </a>
-    <p>DataCamp Machine Data Scientist Certificate</p>
-  </div>
-
-</div>
-
-
 - Udacity Data Scientist Program Capstone Project
   
   [![Project Image](https://raw.githubusercontent.com/CoskunErden/coskunerden.github.io/main/images/starbucks.jpg)](https://coskunerden.github.io/Udacity_DS_Capstone_Project/)
 
 ### Certificates
-- Udacity Data Scientist Certificate
-  
-  [![Certificate Image](https://raw.githubusercontent.com/CoskunErden/coskunerden.github.io/main/images/UdacityDataScientistCertificate.jpg)](https://www.udacity.com/certificate/e/78be004e-41d4-11ef-b282-cb8cfd0cc463)
 
-  - IBM Data Scientist Certificate
-  
-  [![Certificate Image2](https://raw.githubusercontent.com/CoskunErden/coskunerden.github.io/main/images/IBMDataScientistCertificate.jpg)](https://www.coursera.org/account/accomplishments/specialization/certificate/ZLRN24S8TJES)
-
-  - DataCamp Machine Learning Scientist Certificate
-  
-  [![Certificate Image3](https://raw.githubusercontent.com/CoskunErden/coskunerden.github.io/main/images/MachineLearningScientistCertificate.jpg)](https://www.datacamp.com/statement-of-accomplishment/track/f108efec1dfd7a23657a814ff4db852e2c78b942?raw=1)
-
-    - DataCamp Machine Data Scientist Certificate
-  
-  [![Certificate Image3](https://raw.githubusercontent.com/CoskunErden/coskunerden.github.io/main/images/DataCampDataScientistProfessional.jpg)](https://www.datacamp.com/certificate/DS0025883108500)
+<div class="certificate-container">
+  <div class="certificate">
+    <img src="https://raw.githubusercontent.com/CoskunErden/coskunerden.github.io/main/images/UdacityDataScientistCertificate.jpg" alt="Udacity Data Scientist Certificate" title="Focused on machine learning, data engineering, recommendation systems, and deploying AI solutions using advanced tools." />
+    <p><a href="https://www.udacity.com/certificate/e/78be004e-414d-11ef-b282-cb8cfcdc0463" target="_blank">Udacity Data Scientist Certificate</a> (Completed: December 2024)</p>
+  </div>
+  <div class="certificate">
+    <img src="https://raw.githubusercontent.com/CoskunErden/coskunerden.github.io/main/images/IBMDataScientistCertificate.jpg" alt="IBM Data Scientist Certificate" title="Focused on SQL, big data tools, with expertise in data pipelines, predictive modeling, and cloud-based scalable solutions." />
+    <p><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/ZLRN24S8TJES" target="_blank">IBM Data Scientist Certificate</a> (Completed: April 2023)</p>
+  </div>
+  <div class="certificate">
+    <img src="https://raw.githubusercontent.com/CoskunErden/coskunerden.github.io/main/images/MachineLearningScientistCertificate.jpg" alt="DataCamp Machine Learning Scientist Certificate" title="Focused on PyTorch, with expertise in supervised and unsupervised learning, deep learning, and machine learning solutions." />
+    <p><a href="https://www.datacamp.com/statement-of-accomplishment/track/f108eefd1cdf7a23657a814ffd8852e2c7b8942" target="_blank">DataCamp Machine Learning Scientist Certificate</a> (Completed: June 2024)</p>
+  </div>
+  <div class="certificate">
+    <img src="https://raw.githubusercontent.com/CoskunErden/coskunerden.github.io/main/images/DataCampDataScientistProfessional.jpg" alt="DataCamp Machine Data Scientist Certificate" title="Focused on SQL, data pipelines, and scalable data science solutions." />
+    <p><a href="https://www.datacamp.com/certificate/DS002583108500" target="_blank">DataCamp Machine Data Scientist Certificate</a> (Completed: March 2023)</p>
+  </div>
+</div>

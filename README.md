@@ -72,5 +72,3 @@ Highly skilled and detail-oriented professional with 5+ years of experience in c
     </div>
   </div>
 </div>
-
-

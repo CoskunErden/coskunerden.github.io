@@ -41,7 +41,7 @@ Highly skilled and detail-oriented professional with 5+ years of experience in c
   <!-- Row 1 -->
   <div class="certificate-row">
     <div class="certificate">
-      <p><a href="https://www.udacity.com/certificate/e/78be004e-414d-11ef-b282-cb8cfcdc0463" target="_blank">
+      <p><a href="https://www.udacity.com/certificate/e/78be004e-414d-11ef-b282-cb8cfd0cc463" target="_blank">
         Udacity Data Scientist Certificate</a> (Completed: December 2024)</p>
       <img src="https://raw.githubusercontent.com/CoskunErden/coskunerden.github.io/main/images/UdacityDataScientistCertificate.jpg" 
            alt="Udacity Data Scientist Certificate" 
@@ -61,7 +61,7 @@ Highly skilled and detail-oriented professional with 5+ years of experience in c
   <!-- Row 2 -->
   <div class="certificate-row">
     <div class="certificate">
-      <p><a href="https://www.datacamp.com/statement-of-accomplishment/track/f108eefd1cdf7a23657a814ffd8852e2c7b8942" target="_blank">
+      <p><a href="https://www.datacamp.com/statement-of-accomplishment/track/f108efec1dfd7a23657a814ff4db852e2c78b942?raw=1" target="_blank">
         DataCamp Machine Learning Scientist Certificate</a> (Completed: June 2024)</p>
       <img src="https://raw.githubusercontent.com/CoskunErden/coskunerden.github.io/main/images/MachineLearningScientistCertificate.jpg" 
            alt="DataCamp Machine Learning Scientist Certificate" 
@@ -69,8 +69,8 @@ Highly skilled and detail-oriented professional with 5+ years of experience in c
       <p>Comprehensive expertise in supervised and unsupervised learning, deep learning with PyTorch, and building NLP pipelines. Gained practical skills in hyperparameter tuning, feature engineering, and deploying ML models.</p>
     </div>
     <div class="certificate">
-      <p><a href="https://www.datacamp.com/certificate/DS002583108500" target="_blank">
-        DataCamp Machine Data Scientist Certificate</a> (Completed: March 2023)</p>
+      <p><a href="https://www.datacamp.com/certificate/DS0025883108500" target="_blank">
+        DataCamp Data Scientist Certificate</a> (Completed: March 2023)</p>
       <img src="https://raw.githubusercontent.com/CoskunErden/coskunerden.github.io/main/images/DataCampDataScientistProfessional.jpg" 
            alt="DataCamp Machine Data Scientist Certificate" 
            title="Validated proficiency in core data science skills, including data management, exploratory analysis, and statistical experimentation." />

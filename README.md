@@ -9,7 +9,7 @@ Highly skilled and detail-oriented professional with 5+ years of experience in c
 
 ### Work Experience
 
-- **AI Engineer @ Radical AI**  
+- **AI Engineer @ Reality AI**  
   *Jun 2024 - Present*  
   - **Engineered and deployed** an Intelligent Teaching Assistant system using **Large Language Models (LLMs)** and **Google Cloud Vertex AI** to dynamically generate adaptive syllabus content and AI-resistant assignments, ensuring educational objectives are met through advanced natural language understanding and transformer-based architectures.
   - **Developed robust NLP pipelines** for document ingestion, semantic parsing, and text chunking; **optimized processing frameworks** to handle large datasets efficiently, enhancing scalability and performance for automated content creation.

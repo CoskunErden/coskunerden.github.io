@@ -28,11 +28,12 @@ Highly skilled and detail-oriented professional with 5+ years of experience in c
 
 ### Projects
 
- - [Udacity Data Scientist Program Capstone Project](https://coskunerden.github.io/Udacity_DS_Capstone_Project/)
+- **[Udacity Data Scientist Program Capstone Project](https://coskunerden.github.io/Udacity_DS_Capstone_Project/)**
+  - Built a predictive model to analyze user engagement with Starbucks' promotional offers.
 
   <br> <!-- Adds spacing -->
-  
-  ![Project Image](https://raw.githubusercontent.com/CoskunErden/coskunerden.github.io/main/images/starbucks.jpg)
+
+  ![Project Image](images/starbucks.jpg)
 
 
  - [Kaggle Recipe Traffic Project](https://coskunerden.github.io/Kaggle_recipe/)

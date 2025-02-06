@@ -2,6 +2,5 @@ title: Coskun Erden
 logo: /images/imagecerden.jpg
 theme: jekyll-theme-minimal
 show_downloads: false
-
-# Custom styles
 include: ["styles.css"]
+layouts: ["default"]

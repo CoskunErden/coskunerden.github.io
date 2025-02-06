@@ -1,9 +1,5 @@
 
-## Table of Contents
-- [Education](#education)
-- [Work Experience](#work-experience)
-- [Projects](#projects)
-- [Certificates](#certificates)
+[Education](#education) | [Work Experience](#work-experience) | [Projects](#projects) | [Certificates](#certificates)
 
 
 # Data Scientist & AI Engineer

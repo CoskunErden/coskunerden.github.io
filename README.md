@@ -44,7 +44,7 @@ Highly skilled and detail-oriented professional with 5+ years of experience in c
 
   <br> <!-- Adds spacing -->
   
-  ![Project Image](images/recipetraffic.webp){: width="600px" }
+  ![Project Image](images/recipetraffic.webp)
   
 
 ### Certificates

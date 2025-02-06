@@ -38,8 +38,6 @@ Highly skilled and detail-oriented professional with 5+ years of experience in c
 
 - **[Kaggle Recipe Traffic Project](https://coskunerden.github.io/Kaggle_recipe/)**  
   - Developed machine learning models to predict recipe traffic based on nutritional content and categorical features.  
-  - Applied Logistic Regression and Gradient Boosting to classify recipes as "High Traffic" or "Low Traffic" with feature importance analysis.  
-  - Engineered features, handled class imbalance, and optimized models to improve recommendation accuracy.  
 
   <br> <!-- Adds spacing -->
   

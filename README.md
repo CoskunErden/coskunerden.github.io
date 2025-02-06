@@ -39,9 +39,9 @@ Highly skilled and detail-oriented professional with 5+ years of experience in c
  - [Kaggle Recipe Traffic Project](https://coskunerden.github.io/Kaggle_recipe/)
 
   <br> <!-- Adds spacing -->
-  
-  ![Project Image](https://raw.githubusercontent.com/CoskunErden/coskunerden.github.io/main/images/recipetraffic.webp)
 
+  ![Project Image](images/recipetraffic.webp)
+  
 
 ### Certificates
 

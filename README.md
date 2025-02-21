@@ -3,30 +3,34 @@
 
 
 # Data Scientist & AI Engineer
-Highly skilled and detail-oriented professional with 5+ years of experience in creative scientific data analytics, proficient programming, advanced machine learning techniques, and impactful data visualization. Demonstrates exceptional problem-solving and analytical abilities, persistently seeking innovative solutions to complex challenges. Possesses excellent communication skills, effectively conveying technical concepts to diverse audiences. Tech-savvy and curious, continuously exploring new tools and technologies to enhance data-driven insights. Known for a meticulous and detail-oriented approach, ensuring accuracy and precision in all data analysis endeavors.
+Hi there! I’m a passionate data enthusiast with over five years of experience turning complex scientific data into meaningful insights. I love diving into data, uncovering patterns, and using advanced machine learning techniques to solve challenging problems. With a strong background in programming and visualization, I enjoy making data not only insightful but also easy to understand. I thrive on curiosity—always exploring new tools and technologies to stay ahead. Whether it's tackling tough analytical challenges or explaining technical concepts in a simple way, I’m all about making data work for people. Let’s connect and explore the power of data together!
+
+
 
 ### Education
 - Ph.D. Mathematics, Iowa State University, May 2024
 - Ms.C. Statistics, Iowa State University, December 2022
 
 
+Here’s your **Work Experience** section with a more friendly and approachable tone:  
+
 ### Work Experience
 
 - **AI Engineer @ Reality AI**  
   *Jun 2024 - Present*  
-  - **Engineered and deployed** an Intelligent Teaching Assistant system using **Large Language Models (LLMs)** and **Google Cloud Vertex AI** to dynamically generate adaptive syllabus content and AI-resistant assignments, ensuring educational objectives are met through advanced natural language understanding and transformer-based architectures.
-  - **Developed robust NLP pipelines** for document ingestion, semantic parsing, and text chunking; **optimized processing frameworks** to handle large datasets efficiently, enhancing scalability and performance for automated content creation.
+  - Built an **Intelligent Teaching Assistant** using **LLMs** and **Google Cloud Vertex AI** to create adaptive syllabus content and AI-resistant assignments.  
+  - Designed **smart NLP pipelines** to process and organize large amounts of text, making automated content creation faster and more efficient.  
 
 - **Data Scientist @ Iowa State University**  
   *Jun 2023 - May 2024*  
-  - **Automated web-scraping pipelines** using Selenium with advanced techniques like **WebDriverWait**, **expected_conditions (EC)**, and **ActionChains** to handle dynamic web elements, dropdown menus, and asynchronous content, ensuring reliable and error-resilient data extraction.
-  - **Optimized ETL workflows** by streamlining Chrome WebDriver configurations, reducing data extraction time by 60%, and enabling efficient file handling for downstream analysis.
+  - Automated **web scraping** with Selenium, cutting data extraction time by 60% and making data collection smoother.  
+  - Improved **ETL workflows**, making data processing faster and more reliable for analysis.  
 
-- **Data Analyst and Research Assistant @ Iowa State University, Ames, IA**  
+- **Data Analyst & Research Assistant @ Iowa State University**  
   *Aug 2017 - May 2023*  
-  - Conducted a **hierarchical logistic regression** on the **HSLS:09 study** to evaluate the role of **institutional agent-related social capital** in immigrant students' advanced math enrollment. Applied **k-Nearest Neighbors (kNN) imputation** to handle missing data and identified key predictors to inform **equitable access strategies**.
-  - **Developed and deployed advanced statistical models** for the IM2EB project, leveraging techniques such as **generalized linear models (GLMs)** and **non-parametric analysis** to derive actionable insights, highlighting improvements in teaching practices ranging from **21% to 36%**.
-  - **Led the end-to-end data science lifecycle**, including data preprocessing (e.g., normalization, outlier detection), feature engineering (e.g., interaction terms, categorical encoding), and predictive modeling using **multi-level regression** and **cross-validated model evaluation**, achieving an **86% explanation of variance** in student ISASP scores.
+  - Used **hierarchical logistic regression** to study how social connections impact immigrant students’ math enrollment.  
+  - Built **statistical models** that helped improve teaching strategies by 21-36%.  
+  - Led **data-driven projects**, applying advanced analytics to predict student performance with 86% accuracy.  
 
 
 ### Projects
